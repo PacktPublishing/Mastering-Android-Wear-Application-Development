@@ -19,10 +19,10 @@ public WindowInsets onApplyWindowInsets(View v, WindowInsets insets)
 
 You will require the following set of tools to try out the codes in the book and to practice the application development yourself:
 
-Android Studio v2 or greater
-JDK v7 or greater
-Git version control
-A development system with decent hardware configurations, such as a fast CPU and adequate RAM for developing mobile applications
+* Android Studio v2 or greater
+* JDK v7 or greater
+* Git version control
+* A development system with decent hardware configurations, such as a fast CPU and adequate RAM for developing mobile applications
 
 ##Related Products
 * [Android Wearable Programming](https://www.packtpub.com/application-development/android-wearable-programming?utm_source=github&utm_medium=repository&utm_campaign=9781785280153)
