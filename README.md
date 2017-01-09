@@ -1,5 +1,5 @@
 #Mastering Android Wear Application Development
-This is the code repository for [Mastering Android Wear Application Development](Current URL?utm_source=github&utm_medium=repository&utm_campaign=978-1-78588-172-5), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Mastering Android Wear Application Development](utm_source=github&utm_medium=repository&utm_campaign=978-1-78588-172-5), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book is intended for developers working on mobile, desktop, or web platforms
 interested in learning how to build apps for wearable devices, also known as wear apps.
